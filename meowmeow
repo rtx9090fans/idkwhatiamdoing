@@ -1,0 +1,10 @@
+{
+"admintoken10198879630": {
+    "read": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER"],
+    "write": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER"]
+  },
+  "tokencyber2331551bc6": {
+    "read": ["CYBER"],
+    "write": ["CYBER"]
+  }
+}
