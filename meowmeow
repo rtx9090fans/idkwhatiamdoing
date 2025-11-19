@@ -1,7 +1,7 @@
 {
 "admintoken10198879630": {
-    "read": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER"],
-    "write": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER"]
+    "read": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER","MATADOR"],
+    "write": ["EREN", "INSANE", "MAXGAMER", "SALZ", "CYBER", "AIM", "SNIPER", "B4EVER","MATADOR"]
   },
 "tokenrehan90228369565": {
     "read": ["REHAN"],
