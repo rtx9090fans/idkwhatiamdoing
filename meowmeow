@@ -7,6 +7,10 @@
     "read": ["MOMEN"],
     "write": ["MOMEN"]
   },
+"b4ever_apitoken_dhjskljhklh21kkljvklj2345jj0w2": {
+    "read": ["B4EVER"],
+    "write": ["B4EVER"]
+  },
   "tokencyber2331551bc6": {
     "read": ["CYBER"],
     "write": ["CYBER"]
