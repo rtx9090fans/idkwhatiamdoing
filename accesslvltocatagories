@@ -1,1 +1,14 @@
-
+{
+"admintoken10198879630": {
+ Bypass,Internal,External
+  },
+"MOMEN": {
+   Bypass,Internal,External
+  },
+  "MATADOR": {
+   External
+ },
+  "SALZ": {
+   External,Internal
+  }
+}
