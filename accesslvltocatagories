@@ -1,14 +1,6 @@
 {
-"admintoken10198879630": {
- Bypass,Internal,External
-  },
-"MOMEN": {
-   Bypass,Internal,External
-  },
-  "MATADOR": {
-   External
- },
-  "SALZ": {
-   External,Internal
-  }
+  "admintoken10198879630": "Bypass,Internal,External,Upcoming",
+  "MOMEN": "Bypass,Internal,External,SilenAim",
+  "MATADOR": "External",
+  "SALZ": "External,Internal"
 }
