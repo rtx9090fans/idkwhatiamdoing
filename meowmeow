@@ -7,6 +7,10 @@
     "read": ["MOMEN"],
     "write": ["MOMEN"]
   },
+"TestToken": {
+    "read": ["YOUR_NAME"],
+    "write": ["YOUR_NAME"]
+  },
 "erentokendjklsakdjksadjksjdklsajdkljkjflksdj234123jlkjskldk123lk312k3": {
     "read": ["EREN"],
     "write": ["EREN"]
