@@ -11,6 +11,10 @@
     "read": ["B4EVER"],
     "write": ["B4EVER"]
   },
+"SALZ_token_jkasdhdfjkha123dsjk345hfsdjkhfwej213khwejmk": {
+    "read": ["SALZ"],
+    "write": ["SALZ"]
+  },
   "tokencyber2331551bc6": {
     "read": ["CYBER"],
     "write": ["CYBER"]
